@@ -1,4 +1,4 @@
-# IndiSight++: Monument Recognition from Satellite Images using Deep Learning with Explainable AI
+# Monument Recognition from Satellite Images using Deep Learning with Explainable AI
 
 ## Project Overview
 IndiSight++ is a Deep Learning and Explainable AI (XAI) based framework designed for recognizing historical monuments from satellite imagery. The system uses MobileNetV1 along with Grad-CAM, LIME, and SHAP to provide accurate and interpretable monument classification.
